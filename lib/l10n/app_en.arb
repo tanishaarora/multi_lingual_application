@@ -1,0 +1,22 @@
+{
+  "language" : "English",
+  "@language": {
+    "description": "The current language"
+  },
+  "helloWorld": "Hello World",
+  "@helloWorld" : {
+    "description": "Programmers greeting"
+  },
+  "english": "English",
+  "@english" : {
+    "description": "English"
+  },
+  "hindi": "Hindi",
+  "@hindi" : {
+    "description": "Hindi"
+  },
+  "arabic": "Arabic",
+  "@arabic" : {
+    "description": "Arabic"
+  }
+}
